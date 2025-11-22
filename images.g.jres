@@ -1,0 +1,13 @@
+{
+    "song1": {
+        "data": "0078000408010100001c00010a006400f4016400000400000000000000000000000000050000040600000004000125",
+        "mimeType": "application/mkcd-song",
+        "displayName": "thesong",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
