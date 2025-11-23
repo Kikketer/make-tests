@@ -11,6 +11,12 @@
         "displayName": "lowersong",
         "namespace": "mySongs."
     },
+    "song3": {
+        "data": "0078000408020100001c00010a006400f4016400000400000000000000000000000000050000040600000004000124",
+        "mimeType": "application/mkcd-song",
+        "displayName": "lowersong0",
+        "namespace": "mySongs."
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
